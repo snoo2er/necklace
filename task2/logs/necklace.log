@@ -1,0 +1,6 @@
+16:29:10 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 3, gem fields not parsed
+16:29:10 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 5, gem fields not parsed
+16:30:10 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 3, gem fields not parsed
+16:30:10 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 5, gem fields not parsed
+18:52:18 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 3, gem fields not parsed
+18:52:18 | [main] | ERROR | by.hryshchanka.task2.parser.NecklaceParser - by.hryshchanka.task2.parser.ParserException | wrong data on line 5, gem fields not parsed

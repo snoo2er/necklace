@@ -1,0 +1,18 @@
+Rectangle 0
+perimeter=39,6, rectangleArea=98,0]
+
+Rectangle 1
+perimeter=36,0, rectangleArea=80,0]
+
+Rectangle 2
+perimeter=56,0, rectangleArea=180,0]
+
+Rectangle 3
+perimeter=34,0, rectangleArea=60,0]
+
+Rectangle 4
+perimeter=860,0, rectangleArea=36621,0]
+
+Rectangle 5
+perimeter=62,2, rectangleArea=242,0]
+

@@ -1,0 +1,21 @@
+Diamond 1.5 1000 transparent  natural i1
+Ruby 1 500 translucent synthetic vs1
+pearl 5 50 opaque 9
+amber 15 100 transparent ant
+Sapphire 2 500 transparent  natural i3
+Diamond 4 5000 transparent synthetic fl
+pearl 6 55 opaque 11
+amber 12 80 transparent fly
+Diamond 1.5 1000 transparent  natural si1
+Ruby 1 500 translucent synthetic vs1
+pearl 5 50 opaque 9 wrong
+Emerald 6 3500 translucent synthetic vs1
+15 100 opaque NONE
+Diamond 1.5 1000 transparent  natural i1
+Ruby 8 1800 translucent synthetic vvs1
+pearl 8 150 opaque 13
+amber 100 60 opaque NONE
+Diamond 1.5 1000 transparent  natural st
+Ruby 1 500 translucent synthetic vs1
+pearl 5 50 opaque 9
+amber 26 160 opaque NONE
