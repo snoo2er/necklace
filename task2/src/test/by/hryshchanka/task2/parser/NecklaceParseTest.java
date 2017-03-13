@@ -19,8 +19,8 @@ import by.hryshchanka.task2.entity.Transparency;
 import by.hryshchanka.task2.parser.NecklaceParser;
 
 public class NecklaceParseTest {
-	public NecklaceParser parser;
-	List<String> testLines;
+	private static NecklaceParser parser;
+	private static List<String> testLines;
 	
 	@Before
 	public void initData() {
